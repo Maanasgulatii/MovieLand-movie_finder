@@ -6,38 +6,41 @@ Movieland is a web-based application that allows users to search and view an end
 <img width="1234" alt="MovieLand" src="https://github.com/user-attachments/assets/eddfc791-9caa-468f-a90f-37b617d45bbd">
 
 ### Key Features:
-1. Movie Search: Allows users to search for movies by name or other filters.
-2. API Integration: Fetches movie data dynamically from an open-source API.
-3. Interactive UI: Provides an engaging user experience with real-time data fetching and easy navigation.
+1. ### Movie Search: 
+2. - API Integration: Fetches movie data dynamically from an open-source API.
+3. - Interactive UI: Provides an engaging user experience with real-time data fetching and easy navigation.
 
 ### Installation Instructions:
 
- ### Clone the repository:
-First, you need to clone the repository to your local machine-0
+ 1. Clone the repository:
 
- - *git clone https://github.com/Maanasgulatii/MovieLand-movie_finder.git*
+  ```bash
+git clone https://github.com/Maanasgulatii/MovieLand-movie_finder.git
+  ```
 
- ### Navigate to the project directory:
-After cloning, navigate into the project directory-
+2. Navigate to the project directory:
 
- - *cd MovieLand-movie_finder*
+ ```bash
+cd MovieLand-movie_finder
+ ```
 
- ### Install dependencies:
-Install the necessary dependencies using npm-
+3. Install dependencies:
 
-- *npm install*
+ ```bash
+npm install
+ ```
 
- ### Set up API key:
-If the API you’re using requires an API key, ensure that you have set it up in the project. You may need to place the key in a .env file (depending on how the API is configured). For example-
+4. Set up API key:
 
-- *REACT_APP_API_KEY=your_api_key_here*
-
+ ```bash
+REACT_APP_API_KEY=your_api_key_here
+ ```
 You can refer to *https://www.omdbapi.com/* for the same.
 
- ### Run the application:
-To start the application and run it locally, use the following command-
-
-- *npm start*
+5. Run the application:
+ ```bash
+npm start
+ ```
 
 This will start the React development server and you can view the platform by navigating to *http://localhost:3000/* in your browser.
 
