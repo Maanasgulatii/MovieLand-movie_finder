@@ -3,6 +3,8 @@
 ### Project Description:
 Movieland is a web-based application that allows users to search and view an endless number of movies using the right keywords. Built with React for the frontend, Node.js for backend functionality (optional), and integrated with an open-source API, this platform enables users to easily find movies by their names seamlessly. The application is designed to offer the user an intuitive interface and fast performance.
 
+<img width="1234" alt="MovieLand" src="https://github.com/user-attachments/assets/eddfc791-9caa-468f-a90f-37b617d45bbd">
+
 ### Key Features:
 1. Movie Search: Allows users to search for movies by name or other filters.
 2. API Integration: Fetches movie data dynamically from an open-source API.
